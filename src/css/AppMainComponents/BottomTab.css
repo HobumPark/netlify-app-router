@@ -1,0 +1,31 @@
+
+#bottom-tab{
+    width:100%;
+    height:10%;
+    background-color: darkgoldenrod;
+    margin:0 auto;
+}
+#bottom-tab>div{
+    float:left;
+    width:20%;
+    height:100%;
+    padding-top:15px;
+    padding-lefT:15px;
+    box-sizing: border-box;
+}
+
+#bottom-tab1{
+    background-color: darkkhaki;
+}
+#bottom-tab2{
+    background-color: darkorange;
+}
+#bottom-tab3{
+    background-color: darkmagenta;
+}
+#bottom-tab4{
+    background-color: darkslateblue;
+}
+#bottom-tab5{
+    background-color: dodgerblue;
+}
